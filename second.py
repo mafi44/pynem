@@ -1,2 +1,1 @@
 print('second')
-print("new")
